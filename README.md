@@ -39,4 +39,4 @@ This project is licensed under the (MIT License).(LICENSE). You are free to sue,
 
 ## About Me
 
-Hi there! My name is **Alpha Oumar II Bah**, they call me by my middle name **Oumar**. I am a Title Officer and Data Analyst, very passionate in transforming data into actual information which helps making decisions!
+Hi there! My name is **Alpha Oumar II Bah**, I go by **Oumar**. I am a Title Officer and Data Analyst, very passionate in transforming data into actual information which helps making decisions!
